@@ -1,9 +1,9 @@
-# BONECD アプリ
+# BONECD（ボネクド）
 
-**BONECD**（ボネクド）  
-Body-Oriented Notation & Element Character Database
+**Body-Oriented Notation & Element Character Database**
 
-キャラクターの身体的・精神的・社会的な要素を **61のパーツ** に分類して管理する、キャラクターデータベースアプリです。
+キャラクターを61のパーツで記録・管理する、キャラクターデータベースフレームワーク。  
+本リポジトリはその**プロトタイプアプリケーション**です。
 
 ---
 
